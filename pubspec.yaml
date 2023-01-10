@@ -37,7 +37,7 @@ dependencies:
   google_fonts: ^2.0.0
   google_fonts_arabic: ^1.1.7
   google_maps_flutter: ^2.0.3
-  http: ^0.13.1
+  http: ^0.13.5
   intl: ^0.17.0
   lottie: ^1.0.1
   page_indicator: ^0.4.1
